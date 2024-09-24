@@ -1,0 +1,4 @@
+foo:
+  bar: $1.1.yaml
+$1.2.yaml:
+bar: $foo.yaml

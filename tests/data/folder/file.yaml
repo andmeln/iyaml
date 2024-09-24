@@ -1,0 +1,5 @@
+foo: bar
+bar: foo
+ext: !include ../1.yaml
+str: !!str 123
+f64: !!float 123

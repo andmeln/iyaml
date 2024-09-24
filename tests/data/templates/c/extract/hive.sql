@@ -1,0 +1,1 @@
+-- content of c/extract/hive.sql

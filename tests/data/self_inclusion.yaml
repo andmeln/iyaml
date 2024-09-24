@@ -1,0 +1,3 @@
+foo: bar
+bar: foo
+self: !include self_inclusion.yaml

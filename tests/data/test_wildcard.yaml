@@ -1,0 +1,3 @@
+sql_templates: !include templates/**/*.sql
+all_templates: !include templates/**/*
+all_templates_2: !include templates/*/*
